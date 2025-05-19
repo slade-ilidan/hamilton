@@ -3,6 +3,8 @@ Markov Regime Switching Model
 
 ## Documentation
 
+![Smoothed Regimes](https://github.com/slade-ilidan/hamilton/smoothed_regimes.png)
+
 TBD
 
 ## Citation
